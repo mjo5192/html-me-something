@@ -1,0 +1,34 @@
+header {
+    font-weight: 100px;
+    color: black
+    
+}
+
+article {
+    margin: auto;
+    padding: 25px;
+}
+
+H2, H3 {
+    color: navy;
+}
+
+body {
+    background-color: grey;
+}
+
+p {
+    color: black;
+}
+
+#current {
+    color: yellow;
+}
+
+.navy-background {
+    background-color:navy;
+}
+
+.white-background{
+    background-color: whitesmoke;
+}
